@@ -41,6 +41,7 @@ Here is a simple HTML & CSS snippet from the project:
     <button class="btn">Click Me!</button>
 </body>
 </html>
+```
 
 
 📌 Output Preview: This code creates a basic webpage with a button.
