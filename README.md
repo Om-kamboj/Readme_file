@@ -95,4 +95,4 @@ This project is licensed under MIT License.
 🎯 *Task 1 Deliverables*
 ✅ A completed README.md file in the GitHub repository with formatted text and HTML & CSS snippets.  
 ✅ Preview of HTML & CSS Code inside the README.  
-✅ Project features and how-to instructions included
+✅ Project features and how-to instructions included
