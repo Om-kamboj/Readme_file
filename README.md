@@ -8,6 +8,7 @@ This project is a simple and responsive webpage built using HTML and CSS. It dem
 
 Here is a simple HTML & CSS snippet from the project:
 
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -50,6 +51,7 @@ Here is a simple HTML & CSS snippet from the project:
     <button class="btn">Explore More</button>
 </body>
 </html>
+```
 
 📌 Output Preview: This code creates a stylish, responsive webpage with a button that has a hover effect and a smooth transition.
 
